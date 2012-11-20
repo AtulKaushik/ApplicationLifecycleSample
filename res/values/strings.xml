@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ApplicationLifecycleSample</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="first_activity">First Activity</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="last_activity">Last Activity</string>
+
+</resources>
